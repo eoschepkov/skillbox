@@ -9,4 +9,5 @@ def sum_factorials(num):
 
 n = int(input('Введите число: '))
 print(sum_factorials(n))
-print('Болван!')
+print('Ботва!')
+print('В голове!')
