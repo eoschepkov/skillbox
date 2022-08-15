@@ -4,3 +4,4 @@ for row in range(1, 10):
         if num < 10: print('0', end = '')
         print(num, end = ' ')
     print()
+print('как так?')
